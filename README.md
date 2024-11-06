@@ -35,7 +35,11 @@ The dataset is public dataset through incubators Hub.
 
   ### Dashboard
   
-![Screenshot (271)](https://github.com/user-attachments/assets/82ed761c-d6fe-4d40-906f-f967acb3103d)
+![Screensh![Screenshot (272)](https://github.com/user-attachments/assets/87ead03f-585f-4b77-805b-640430c99d1e)
+![Screenshot (272)](https://github.com/user-attachments/assets/49ba665e-66cb-41b2-ac39-52d38d591c4f)
+
+
+
 
   
 
