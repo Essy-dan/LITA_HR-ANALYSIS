@@ -6,7 +6,7 @@ LITA_HR-ANALYSIS
 
 This project analyzes attrition trends within an organization to uncover factors driving employee turnover across different demographics, job roles, and departments. The goal is to provide insights into the reasons behind attrition and suggest data-driven recommendations to improve employee retention.
 
-###Key Areas of Focus
+### Key Areas of Focus
 
 1. Age Group Analysis:
 Attrition was highest among employees aged 25-34 and under 25, suggesting early-career professionals are more prone to turnover, often seeking growth, skill development, or work-life balance. Employees over 55 showed the lowest attrition, indicating stability and long-term commitment within this age group.
